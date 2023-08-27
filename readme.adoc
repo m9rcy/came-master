@@ -67,3 +67,8 @@ The Camel riders!
 #TODO
 - Configure a KubernetesClientService using a configuration
 - Inject the service onStartup before CamelContext has been initialize else Routes will be initiated first
+
+Notes in CRC
+- Add user to HyperV
+- Allow ps1 script to be executed
+- crc oc-env
