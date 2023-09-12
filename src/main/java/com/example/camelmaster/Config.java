@@ -15,7 +15,7 @@ public class Config {
     @Autowired
     private ApplicationContext appContext;
 
-    @Bean
+    //@Bean
     CamelContextConfiguration contextConfiguration() {
         return new CamelContextConfiguration() {
             @Override
